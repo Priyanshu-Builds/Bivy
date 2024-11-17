@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Bivy
 Bicycle Website
 =======
@@ -32,4 +31,3 @@ Technologies Used
 HTML
 CSS
 JavaScript
->>>>>>> 48770b3 (Initial commit)
