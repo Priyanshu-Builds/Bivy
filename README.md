@@ -1,7 +1,3 @@
-Below is a draft README for your Bivy project:
-
----
-
 # Bivy - Bicycle Website
 
 Welcome to **Bivy**, a sleek and responsive website designed to showcase a curated collection of high-quality bicycles. Whether you’re into daily commuting, off-road adventures, or high-speed racing, Bivy presents a modern and user-friendly interface to explore bikes that suit every cycling style.
